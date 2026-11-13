@@ -1108,6 +1108,32 @@
             return mejor;
         }
 
+        /* conflictos.json trae las filas con los encabezados ORIGINALES de la
+           planilla ("Provincia", "Comunidad / Caso", "Link"...). filasAGeoJSON
+           espera las claves internas (provincia, comunidad, enlace...), así que
+           se pasan por el mismo mapeo que usa la lectura del CSV. Sin esto,
+           ninguna fila del JSON se ubicaba y el mapa caía a la copia embebida. */
+        function jsonToFilas(j){
+            if (Array.isArray(j)) return j;
+            const filas = j.filas || [];
+            const cols = j.columnas || (filas[0] ? Object.keys(filas[0]) : []);
+            const idx = mapearEncabezados(cols.map(normHeader));
+            if (idx.provincia == null) {
+                console.warn('conflictos.json no tiene columna Provincia:', cols);
+                return [];
+            }
+            const out = [];
+            filas.forEach(function(f){
+                const r = {};
+                Object.keys(idx).forEach(k => {
+                    const v = f[cols[idx[k]]];
+                    r[k] = String(v == null ? '' : v).trim();
+                });
+                if (Object.keys(r).some(k => r[k])) out.push(r);
+            });
+            return out;
+        }
+
         function csvToFilas(texto){
             const filas = parseCSV(texto).filter(f => f.some(c => String(c).trim() !== ''));
             if (filas.length < 2) return [];
@@ -1270,7 +1296,7 @@
                 const resp = await fetch(CONFLICTOS_JSON + '?_cb=' + Date.now());
                 if (resp.ok) {
                     const j = await resp.json();
-                    const filas = Array.isArray(j) ? j : (j.filas || []);
+                    const filas = jsonToFilas(j);
                     const fc = filasAGeoJSON(filas);
                     if (fc.features.length) {
                         aportesOrigen = 'json';
