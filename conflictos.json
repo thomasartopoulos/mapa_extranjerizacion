@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13T00:32:43Z",
+ "actualizado": "2026-11-13T00:51:43Z",
  "columnas": [
   "DATOS VISIBLES EN EL MAPA Provincia",
   "Departamento",
@@ -211,7 +211,7 @@
   },
   {
    "DATOS VISIBLES EN EL MAPA Provincia": "Santiago del Estero",
-   "Departamento": "Gral Taboada",
+   "Departamento": "General Taboada",
    "Localidad": "Añatuya",
    "Comunidad / Caso": "Suncho Pozo \"El Triunfo\"  (pueblo Vilela)",
    "ESTADO (activo / latente / resuelto)": "",
@@ -224,7 +224,7 @@
   },
   {
    "DATOS VISIBLES EN EL MAPA Provincia": "Santiago del Estero",
-   "Departamento": "Gral Taboada",
+   "Departamento": "General Taboada",
    "Localidad": "La Simona",
    "Comunidad / Caso": "La Simona",
    "ESTADO (activo / latente / resuelto)": "",
@@ -237,7 +237,7 @@
   },
   {
    "DATOS VISIBLES EN EL MAPA Provincia": "Santiago del Estero",
-   "Departamento": "Gral Taboada",
+   "Departamento": "General Taboada",
    "Localidad": "Añatuya",
    "Comunidad / Caso": "Lote 48 - Comunidad Nockaishpa Pachamama (pueblo Vilela)",
    "ESTADO (activo / latente / resuelto)": "Activo",
