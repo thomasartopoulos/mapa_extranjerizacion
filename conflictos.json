@@ -1,7 +1,7 @@
 {
- "actualizado": "2026-11-13T01:19:33Z",
+ "actualizado": "2026-11-13T01:24:56Z",
  "columnas": [
-  "Provincia",
+  "DATOS VISIBLES EN EL MAPA Provincia",
   "Departamento",
   "Localidad",
   "Comunidad / Caso",
@@ -11,46 +11,37 @@
   "Hectareas afectadas",
   "Motivo del conflicto",
   "Conflicto con: (Grupo económico / empresario)",
-  "Link",
-  "lat",
-  "lon",
-  "precision"
+  "Link"
  ],
  "filas": [
   {
-   "Provincia": "Catamarca",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Catamarca",
    "Departamento": "Antofagasta de la Sierra",
    "Localidad": "Salar del Hombre Muerto",
    "Comunidad / Caso": "Atacameños del Altiplano",
    "ESTADO (activo / latente / resuelto)": "Activo",
-   "Inicio del conflicto": "2018 (1997 instalación del proyecto Fénix)",
-   "Cantidad de famlias afectadas": "3 directas, extendido a toda la población local",
-   "Hectareas afectadas": "Área de influencia directa del salar (Aproximadamente 60.000 hectáreas o 588 km²).",
+   "Inicio del conflicto": "",
+   "Cantidad de famlias afectadas": "",
+   "Hectareas afectadas": "",
    "Motivo del conflicto": "Extracción masiva de litio, desvío y sequía del Río Trapiche, restricción al libre paso por caminos ancestrales y alteración de cementerios comunitarios.",
    "Conflicto con: (Grupo económico / empresario)": "Río Tinto (ex Livent)",
-   "Link": "https://www.tiempoar.com.ar/ta_article/la-ruta-del-litio-el-lado-oculto-del-oro-blanco/ \nhttps://climatetrackerlatam.org/historias/antofagasta-de-la-sierra-entre-la-transicion-energetica-y-la-vida-en-un-territorio-minado/\nhttps://latfem.org/litio-en-el-salar-del-hombre-muerto-viaje-a-un-sitio-remoto-donde-vivir-es-un-desafio-diario/",
-   "lat": "-25.94675564",
-   "lon": "-67.67787985",
-   "precision": "departamento"
+   "Link": "https://www.tiempoar.com.ar/ta_article/la-ruta-del-litio-el-lado-oculto-del-oro-blanco/ \nhttps://climatetrackerlatam.org/historias/antofagasta-de-la-sierra-entre-la-transicion-energetica-y-la-vida-en-un-territorio-minado/\nhttps://latfem.org/litio-en-el-salar-del-hombre-muerto-viaje-a-un-sitio-remoto-donde-vivir-es-un-desafio-diario/"
   },
   {
-   "Provincia": "Jujuy",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Jujuy",
    "Departamento": "Doctor Manuel Belgrano",
    "Localidad": "",
    "Comunidad / Caso": "Comunidad Indígena Las Capillas — Pueblo Ocloya",
    "ESTADO (activo / latente / resuelto)": "Activo",
    "Inicio del conflicto": "2019",
-   "Cantidad de famlias afectadas": "6 familias",
+   "Cantidad de famlias afectadas": "",
    "Hectareas afectadas": "",
    "Motivo del conflicto": "Disputa territorial entre la comunidad indígena preexistente y Compañía Minera Piuquenes S.A. La empresa impulsa una causa penal por presunta usurpación y la comunidad denuncia un intento de despojo territorial vinculado a intereses extractivos. Denuncian además un eventual proyecto de explotación de uranio, deforestación de bosques nativos e implantación de plantas exóticas.",
    "Conflicto con: (Grupo económico / empresario)": "Compañía Minera Piuquenes S.A. — querellante en la causa penal. Representada por el abogado Arturo Pfister Puch, presidente de la Cámara Minera de Jujuy; patrocinada por Lisandro Gualchi.",
-   "Link": "https://www.bing.com/ck/a?!&&p=7a49c23b62a2a7e1b77584c2af40524b787e4dc901b31d6df31878fe49f0eb8bJmltdHM9MTc4NzE4NDAwMA&ptn=3&ver=2&hsh=4&fclid=32552836-d314-65f4-1429-3e50d2686435&psq=jujuy+desalojo+en+las+capillas&u=a1aHR0cHM6Ly9pbmZvdGVycml0b3JpYWwuY29tLmFyL2ZhbGxvLWRlLWxhLXN1cHJlbWEtY29ydGUtZGUtanVqdXktcmVhY3RpdmEtZWwtZGVzYWxvam8tYS1sYS1jb211bmlkYWQtbGFzLWNhcGlsbGFzLw&ntb=1",
-   "lat": "-24.08911838",
-   "lon": "-65.44787825",
-   "precision": "departamento"
+   "Link": "https://www.bing.com/ck/a?!&&p=7a49c23b62a2a7e1b77584c2af40524b787e4dc901b31d6df31878fe49f0eb8bJmltdHM9MTc4NzE4NDAwMA&ptn=3&ver=2&hsh=4&fclid=32552836-d314-65f4-1429-3e50d2686435&psq=jujuy+desalojo+en+las+capillas&u=a1aHR0cHM6Ly9pbmZvdGVycml0b3JpYWwuY29tLmFyL2ZhbGxvLWRlLWxhLXN1cHJlbWEtY29ydGUtZGUtanVqdXktcmVhY3RpdmEtZWwtZGVzYWxvam8tYS1sYS1jb211bmlkYWQtbGFzLWNhcGlsbGFzLw&ntb=1"
   },
   {
-   "Provincia": "Jujuy",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Jujuy",
    "Departamento": "Humahuaca",
    "Localidad": "",
    "Comunidad / Caso": "Santa Rosa",
@@ -60,13 +51,10 @@
    "Hectareas afectadas": "",
    "Motivo del conflicto": "Error en el desarrollo de un plano de la dirección de inmuebles",
    "Conflicto con: (Grupo económico / empresario)": "",
-   "Link": "https://periodismodeizquierda.com/jujuy-otra-vez-desalojan-con-violencia-extrema-a-una-comunidad-originaria/",
-   "lat": "-23.08200992",
-   "lon": "-65.40952275",
-   "precision": "departamento"
+   "Link": "https://periodismodeizquierda.com/jujuy-otra-vez-desalojan-con-violencia-extrema-a-una-comunidad-originaria/"
   },
   {
-   "Provincia": "Misiones",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Misiones",
    "Departamento": "Libertador General San Martin",
    "Localidad": "Garuhapé",
    "Comunidad / Caso": "Mbya Guaraní Puente Quemado II",
@@ -76,29 +64,23 @@
    "Hectareas afectadas": "",
    "Motivo del conflicto": "",
    "Conflicto con: (Grupo económico / empresario)": "Alfredo Ruff (empresario forestal)",
-   "Link": "https://agenciatierraviva.com.ar/la-politica-publica-de-misiones-desalojar-comunidades-indigenas-y-beneficiar-a-empresas-forestales/   https://canalabierto.com.ar/2026/07/30/puente-quemado-2-la-fiscalia-le-dio-la-razon-a-la-comunidad-mbya-guarani-desalojada-el-martes/",
-   "lat": "-26.82112566",
-   "lon": "-54.95774543",
-   "precision": "localidad"
+   "Link": "https://agenciatierraviva.com.ar/la-politica-publica-de-misiones-desalojar-comunidades-indigenas-y-beneficiar-a-empresas-forestales/   https://canalabierto.com.ar/2026/07/30/puente-quemado-2-la-fiscalia-le-dio-la-razon-a-la-comunidad-mbya-guarani-desalojada-el-martes/"
   },
   {
-   "Provincia": "Neuquén",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Neuquén",
    "Departamento": "Los Lagos",
    "Localidad": "Villa La Angostura — zona de Paso Coihue, sobre Ruta 40",
    "Comunidad / Caso": "Lof Kinxikew y Lof Melo",
    "ESTADO (activo / latente / resuelto)": "Activo",
-   "Inicio del conflicto": "Más de 15 años de disputa judicial. El conflicto se vincula con la adquisición del territorio por privados de origen belga durante la última dictadura cívico-militar.",
-   "Cantidad de famlias afectadas": "Más de 130 personas, entre ellas 35 niñas/os y 17 adultas/os mayores.",
-   "Hectareas afectadas": "No consta",
+   "Inicio del conflicto": "",
+   "Cantidad de famlias afectadas": "",
+   "Hectareas afectadas": "",
    "Motivo del conflicto": "El Estado reconoció la ocupación actual, tradicional y pública de Lof Kinxikew mediante la Resolución INAI 332/2023, pero no otorgó la propiedad comunitaria. El conflicto judicial surge por pretensiones de particulares sobre el territorio.",
    "Conflicto con: (Grupo económico / empresario)": "María Cristina Broers (de origen belga)",
-   "Link": "https://www.cels.org.ar/web/2026/08/desalojo-mapuche-kinxikew-mello/   https://noaldesalojo.archivosdelsur.ar/",
-   "lat": "-40.77435037",
-   "lon": "-71.48672325",
-   "precision": "departamento"
+   "Link": "https://www.cels.org.ar/web/2026/08/desalojo-mapuche-kinxikew-mello/   https://noaldesalojo.archivosdelsur.ar/"
   },
   {
-   "Provincia": "Salta",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Salta",
    "Departamento": "Cachi",
    "Localidad": "Cachi",
    "Comunidad / Caso": "Las Pailas",
@@ -108,29 +90,23 @@
    "Hectareas afectadas": "",
    "Motivo del conflicto": "desalojo por interpretación judicial errónea de la derogación de la ley 26160",
    "Conflicto con: (Grupo económico / empresario)": "Wayar",
-   "Link": "https://www.pagina12.com.ar/2026/06/26/restituyen-la-mayor-parte-del-territorio-desalojado-en-las-pailas/",
-   "lat": "-25.11996765",
-   "lon": "-66.16187592",
-   "precision": "localidad"
+   "Link": "https://www.pagina12.com.ar/2026/06/26/restituyen-la-mayor-parte-del-territorio-desalojado-en-las-pailas/"
   },
   {
-   "Provincia": "Salta",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Salta",
    "Departamento": "Molinos",
    "Localidad": "",
    "Comunidad / Caso": "El Churcal (Diaguita)",
    "ESTADO (activo / latente / resuelto)": "Activo",
    "Inicio del conflicto": "",
-   "Cantidad de famlias afectadas": "40 comunidades",
+   "Cantidad de famlias afectadas": "",
    "Hectareas afectadas": "",
    "Motivo del conflicto": "Vendieron el territorio con las comunidades adentro.",
    "Conflicto con: (Grupo económico / empresario)": "Familia Gutierrez vendió a Konrad Ernst Steudtner",
-   "Link": "https://infoterritorial.com.ar/vendieron-territorio-de-la-comunidad-diaguita-el-churcal-con-40-familias-adentro/",
-   "lat": "-25.56431653",
-   "lon": "-66.45487275",
-   "precision": "departamento"
+   "Link": "https://infoterritorial.com.ar/vendieron-territorio-de-la-comunidad-diaguita-el-churcal-con-40-familias-adentro/"
   },
   {
-   "Provincia": "Salta",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Salta",
    "Departamento": "San Martin",
    "Localidad": "Tartagal",
    "Comunidad / Caso": "",
@@ -140,13 +116,10 @@
    "Hectareas afectadas": "27000",
    "Motivo del conflicto": "Desmonte",
    "Conflicto con: (Grupo económico / empresario)": "Desdelsur SA. (Macera y Blaquier)",
-   "Link": "infoterritorial   https://www.pagina12.com.ar/2026/08/03/denuncian-un-desmonte-en-territorio-de-uso-ancestral-de-comunidades-originarias/",
-   "lat": "-22.51681833",
-   "lon": "-63.80560492",
-   "precision": "localidad"
+   "Link": "infoterritorial   https://www.pagina12.com.ar/2026/08/03/denuncian-un-desmonte-en-territorio-de-uso-ancestral-de-comunidades-originarias/"
   },
   {
-   "Provincia": "Salta",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Salta",
    "Departamento": "La Poma",
    "Localidad": "La Poma",
    "Comunidad / Caso": "Comunidad Diaguita San Miguel La Poma",
@@ -156,13 +129,10 @@
    "Hectareas afectadas": "",
    "Motivo del conflicto": "Remate de los activos del Ex Banco Oddone, territorio dentro del cual tiene posesión ancestral y preexistencia la comunidad. La comunidad se presentó e impidió procesalmente el remate. La justicia federal ordenó la realización del relevamiento de sus tierras.",
    "Conflicto con: (Grupo económico / empresario)": "Quiebra del Ex Banco Oddone S.A. / Sindico",
-   "Link": "https://www.fiscales.gob.ar/fiscalias/la-camara-comercial-siguio-el-criterio-de-la-fiscal-boquin-y-suspendio-la-venta-de-tierras-reivindicadas-por-comunidades-indigenas/",
-   "lat": "-24.72256417",
-   "lon": "-66.2005817",
-   "precision": "localidad"
+   "Link": "https://www.fiscales.gob.ar/fiscalias/la-camara-comercial-siguio-el-criterio-de-la-fiscal-boquin-y-suspendio-la-venta-de-tierras-reivindicadas-por-comunidades-indigenas/"
   },
   {
-   "Provincia": "Salta",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Salta",
    "Departamento": "La Poma",
    "Localidad": "La Poma",
    "Comunidad / Caso": "Comunidad Diaguita Rodeo La Poma",
@@ -172,13 +142,10 @@
    "Hectareas afectadas": "",
    "Motivo del conflicto": "Intento de Empresa Minera de ingresar/avanzar a través del territorio con máquinas pesadas",
    "Conflicto con: (Grupo económico / empresario)": "No identificado",
-   "Link": "https://www.radionacional.com.ar/comunidades-indigenas-en-salta-le-dicen-no-a-la-mineria/",
-   "lat": "-24.72256417",
-   "lon": "-66.2005817",
-   "precision": "localidad"
+   "Link": "https://www.radionacional.com.ar/comunidades-indigenas-en-salta-le-dicen-no-a-la-mineria/"
   },
   {
-   "Provincia": "Salta",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Salta",
    "Departamento": "Cachi",
    "Localidad": "",
    "Comunidad / Caso": "Comunidad Diaguita La Aguada/ Las Trancas / El Algarrobal:",
@@ -188,13 +155,10 @@
    "Hectareas afectadas": "",
    "Motivo del conflicto": "Titular registral está vendiendo el territorio con la comunidad dentro",
    "Conflicto con: (Grupo económico / empresario)": "Sergio Durand",
-   "Link": "",
-   "lat": "-25.03875579",
-   "lon": "-66.20262009",
-   "precision": "departamento"
+   "Link": ""
   },
   {
-   "Provincia": "Santiago del Estero",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Santiago del Estero",
    "Departamento": "Copo",
    "Localidad": "",
    "Comunidad / Caso": "Piruaj Bajo",
@@ -204,13 +168,10 @@
    "Hectareas afectadas": "15000",
    "Motivo del conflicto": "",
    "Conflicto con: (Grupo económico / empresario)": "Sacha Rupaska (Caputo)",
-   "Link": "",
-   "lat": "-25.9391612",
-   "lon": "-62.73109723",
-   "precision": "departamento"
+   "Link": ""
   },
   {
-   "Provincia": "Santiago del Estero",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Santiago del Estero",
    "Departamento": "Figueroa",
    "Localidad": "Santos Lugares",
    "Comunidad / Caso": "Pozo del Castaño, El Retiro, el Aibal, el Calao y el Puesto de Santos Lugares",
@@ -220,29 +181,23 @@
    "Hectareas afectadas": "8000",
    "Motivo del conflicto": "",
    "Conflicto con: (Grupo económico / empresario)": "Hugo Moschen (Santa Fe) socio de la aceitera Vicentin",
-   "Link": "",
-   "lat": "-27.32185675",
-   "lon": "-63.57963202",
-   "precision": "departamento"
+   "Link": ""
   },
   {
-   "Provincia": "Santiago del Estero",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Santiago del Estero",
    "Departamento": "Alberdi",
    "Localidad": "",
    "Comunidad / Caso": "Campo \"la Flor\" (pueblo Lule Vilela)",
    "ESTADO (activo / latente / resuelto)": "",
    "Inicio del conflicto": "",
-   "Cantidad de famlias afectadas": "101 familias",
+   "Cantidad de famlias afectadas": "",
    "Hectareas afectadas": "11000",
    "Motivo del conflicto": "",
    "Conflicto con: (Grupo económico / empresario)": "David Alberto Mercado (oriundo de Monte Quemado) que responde al empresario inmobiliario bonaerense Marcelo Mirincovich apoderado de MJM Inmobiliaria S.A.",
-   "Link": "",
-   "lat": "-26.52104235",
-   "lon": "-62.72801393",
-   "precision": "departamento"
+   "Link": ""
   },
   {
-   "Provincia": "Santiago del Estero",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Santiago del Estero",
    "Departamento": "Aguirre",
    "Localidad": "Pinto",
    "Comunidad / Caso": "El Chañaral (pueblo Sanavirón)",
@@ -252,13 +207,10 @@
    "Hectareas afectadas": "500",
    "Motivo del conflicto": "Conflicto por contaminación por fumigaciones",
    "Conflicto con: (Grupo económico / empresario)": "Rodolfo Balbi",
-   "Link": "https://agenciatierraviva.com.ar/santiago-del-estero-una-cautelar-restringe-las-fumigaciones-en-territorios-del-pueblo-sanaviron/",
-   "lat": "-29.29797323",
-   "lon": "-62.51509738",
-   "precision": "departamento"
+   "Link": "https://agenciatierraviva.com.ar/santiago-del-estero-una-cautelar-restringe-las-fumigaciones-en-territorios-del-pueblo-sanaviron/"
   },
   {
-   "Provincia": "Santiago del Estero",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Santiago del Estero",
    "Departamento": "General Taboada",
    "Localidad": "Añatuya",
    "Comunidad / Caso": "Suncho Pozo \"El Triunfo\"  (pueblo Vilela)",
@@ -268,13 +220,10 @@
    "Hectareas afectadas": "2800",
    "Motivo del conflicto": "",
    "Conflicto con: (Grupo económico / empresario)": "Empresario Monteverde Rosario",
-   "Link": "",
-   "lat": "-28.46020335",
-   "lon": "-62.83354247",
-   "precision": "localidad"
+   "Link": ""
   },
   {
-   "Provincia": "Santiago del Estero",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Santiago del Estero",
    "Departamento": "General Taboada",
    "Localidad": "La Simona",
    "Comunidad / Caso": "La Simona",
@@ -284,13 +233,10 @@
    "Hectareas afectadas": "10000",
    "Motivo del conflicto": "",
    "Conflicto con: (Grupo económico / empresario)": "Empresario Guillermo Masoni",
-   "Link": "",
-   "lat": "-28.56832507",
-   "lon": "-62.33876338",
-   "precision": "departamento"
+   "Link": ""
   },
   {
-   "Provincia": "Santiago del Estero",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Santiago del Estero",
    "Departamento": "General Taboada",
    "Localidad": "Añatuya",
    "Comunidad / Caso": "Lote 48 - Comunidad Nockaishpa Pachamama (pueblo Vilela)",
@@ -300,13 +246,10 @@
    "Hectareas afectadas": "1400",
    "Motivo del conflicto": "Territorio en disputa entre una comunidad originaria del pueblo vilela con un empresario francés",
    "Conflicto con: (Grupo económico / empresario)": "Francoise Lannou (Francés)",
-   "Link": "https://noticias.perfil.com/noticias/general/2018-01-04-el-conflicto-indigena-en-santiago-del-estero-una-familia-denuncia-mafias-en-anatuya.phtml",
-   "lat": "-28.46020335",
-   "lon": "-62.83354247",
-   "precision": "localidad"
+   "Link": "https://noticias.perfil.com/noticias/general/2018-01-04-el-conflicto-indigena-en-santiago-del-estero-una-familia-denuncia-mafias-en-anatuya.phtml"
   },
   {
-   "Provincia": "Santiago del Estero",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Santiago del Estero",
    "Departamento": "Mitre",
    "Localidad": "",
    "Comunidad / Caso": "Las Abras - Comunidad Indígena Sentimiento de mi Tierra (pueblo Sanavirón)",
@@ -316,13 +259,10 @@
    "Hectareas afectadas": "20000",
    "Motivo del conflicto": "El empresario español intentó apropiarse de las 20 mil hectáreas pertenecientes a la comunidad indígena Sentimiento de mi  Tierra perteneciente al pueblo Sanavirón",
    "Conflicto con: (Grupo económico / empresario)": "Alfonso Perez Barrau (español)",
-   "Link": "",
-   "lat": "-29.61504903",
-   "lon": "-62.73867576",
-   "precision": "departamento"
+   "Link": ""
   },
   {
-   "Provincia": "Santiago del Estero",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Santiago del Estero",
    "Departamento": "Río Hondo",
    "Localidad": "",
    "Comunidad / Caso": "Monte Rico",
@@ -332,61 +272,49 @@
    "Hectareas afectadas": "224",
    "Motivo del conflicto": "",
    "Conflicto con: (Grupo económico / empresario)": "Flavian Strokov",
-   "Link": "https://www.facebook.com/story.php?story_fbid=887578560077137&id=100064750024394#",
-   "lat": "-27.48554242",
-   "lon": "-64.7601169",
-   "precision": "departamento"
+   "Link": "https://www.facebook.com/story.php?story_fbid=887578560077137&id=100064750024394#"
   },
   {
-   "Provincia": "Santiago del Estero",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Santiago del Estero",
    "Departamento": "Moreno",
    "Localidad": "Roversi",
    "Comunidad / Caso": "El Urunday",
    "ESTADO (activo / latente / resuelto)": "Activo",
-   "Inicio del conflicto": "2022 - PRIMER INTENTO DE DESALOJO",
+   "Inicio del conflicto": "",
    "Cantidad de famlias afectadas": "1",
-   "Hectareas afectadas": "216 aprox",
+   "Hectareas afectadas": "",
    "Motivo del conflicto": "Desalojo",
    "Conflicto con: (Grupo económico / empresario)": "Abel Parra y Ríos Guillermo Marcelino",
-   "Link": "https://www.mocase.org.ar/noticias/nuevo-atropello-los-derechos-del-campesinado\nhttps://www.mocase.org.ar/noticias/nuevo-atropello-los-derechos-del-campesinado\nhttps://telesisaoficial.wordpress.com/2026/09/16/el-monte-que-esta-quedando-es-ese-porque-lo-cuidamos/",
-   "lat": "-27.59232663",
-   "lon": "-61.94372968",
-   "precision": "localidad"
+   "Link": "https://www.mocase.org.ar/noticias/nuevo-atropello-los-derechos-del-campesinado\nhttps://www.mocase.org.ar/noticias/nuevo-atropello-los-derechos-del-campesinado\nhttps://telesisaoficial.wordpress.com/2026/09/16/el-monte-que-esta-quedando-es-ese-porque-lo-cuidamos/"
   },
   {
-   "Provincia": "Santiago del Estero",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Santiago del Estero",
    "Departamento": "Copo",
    "Localidad": "El Cabure",
    "Comunidad / Caso": "5 hermanos",
    "ESTADO (activo / latente / resuelto)": "Activo",
-   "Inicio del conflicto": "Hace 15 años",
+   "Inicio del conflicto": "",
    "Cantidad de famlias afectadas": "3",
    "Hectareas afectadas": "2500",
    "Motivo del conflicto": "Desalojo",
    "Conflicto con: (Grupo económico / empresario)": "Isabel Salas “Chavela”",
-   "Link": "https://www.instagram.com/p/DfDwrBZN-jk/\nhttps://infoterritorial.com.ar/comunidad-lule-vilela-la-armonia-resiste-intento-de-desalojo/",
-   "lat": "-26.01588421",
-   "lon": "-62.3341734",
-   "precision": "localidad"
+   "Link": "https://www.instagram.com/p/DfDwrBZN-jk/\nhttps://infoterritorial.com.ar/comunidad-lule-vilela-la-armonia-resiste-intento-de-desalojo/"
   },
   {
-   "Provincia": "Catamarca",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Catamarca",
    "Departamento": "Tinogasta",
    "Localidad": "Fiambalá",
    "Comunidad / Caso": "Vecinos autoconvocados, productores locales y la Asamblea Fiambalá Despierta.",
    "ESTADO (activo / latente / resuelto)": "Activo",
    "Inicio del conflicto": "2019",
-   "Cantidad de famlias afectadas": "La población total de Fiambalá (aproximadamente 4.600 habitantes) se ve afectada indirectamente por el impacto en el agua y el turismo; de forma directa sobre la propiedad de las tierras, la familia del productor Pedro Saleme.",
-   "Hectareas afectadas": "345 hectáreas (predio de la planta en litigio directo) dentro de un proyecto que abarca más de 30.000 hectáreas mineras totales.",
+   "Cantidad de famlias afectadas": "",
+   "Hectareas afectadas": "",
    "Motivo del conflicto": "Presunta usurpación y expropiación ilegal de tierras de propiedad privada para beneficio de la minera, sumado a daño ambiental por derrames de litio y baja del caudal de agua en lagunas altoandinas.",
    "Conflicto con: (Grupo económico / empresario)": "Zijin Mining Group (de origen chino), operando localmente mediante su subsidiaria Zijin-Liex S.A..",
-   "Link": "https://www.elancasti.com.ar/politica-y-economia/denuncian-paulon-la-cesion-tierras-zijin-liex-y-piden-frenar-una-obra-n596016",
-   "lat": "-27.68945542",
-   "lon": "-67.61914802",
-   "precision": "localidad"
+   "Link": "https://www.elancasti.com.ar/politica-y-economia/denuncian-paulon-la-cesion-tierras-zijin-liex-y-piden-frenar-una-obra-n596016"
   },
   {
-   "Provincia": "Misiones",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Misiones",
    "Departamento": "San Pedro",
    "Localidad": "Pozo Azul",
    "Comunidad / Caso": "La Colorada - km 80",
@@ -396,13 +324,10 @@
    "Hectareas afectadas": "",
    "Motivo del conflicto": "",
    "Conflicto con: (Grupo económico / empresario)": "Empresa Intercontinental SA",
-   "Link": "",
-   "lat": "-26.62996077",
-   "lon": "-53.96297804",
-   "precision": "departamento"
+   "Link": ""
   },
   {
-   "Provincia": "Misiones",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Misiones",
    "Departamento": "General Manuel Belgrano",
    "Localidad": "Municipio Dos Hermanas",
    "Comunidad / Caso": "Paraje Los Cerpa - km 85 (ruta provincial 18)",
@@ -412,13 +337,10 @@
    "Hectareas afectadas": "",
    "Motivo del conflicto": "Campesinos reclaman 1400 hectareas en conflicto con Larrategui",
    "Conflicto con: (Grupo económico / empresario)": "Larrategui",
-   "Link": "",
-   "lat": "-25.97843171",
-   "lon": "-53.9638551",
-   "precision": "departamento"
+   "Link": ""
   },
   {
-   "Provincia": "Misiones",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Misiones",
    "Departamento": "Montecarlo",
    "Localidad": "Limite del municipio de Montecarlo y Caraguatay",
    "Comunidad / Caso": "Ñande Kokue",
@@ -428,13 +350,10 @@
    "Hectareas afectadas": "",
    "Motivo del conflicto": "Conflicto entre la empresa La Misionera S.A. y el Movimiento Campesino de Liberación que trabajan en el proyecto educativo ñande kokue",
    "Conflicto con: (Grupo económico / empresario)": "La Misionera S.A.",
-   "Link": "",
-   "lat": "-26.65790819",
-   "lon": "-54.56317745",
-   "precision": "departamento"
+   "Link": ""
   },
   {
-   "Provincia": "Misiones",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Misiones",
    "Departamento": "San Pedro",
    "Localidad": "San Pedro",
    "Comunidad / Caso": "Palmera Boca",
@@ -444,29 +363,23 @@
    "Hectareas afectadas": "",
    "Motivo del conflicto": "Disputa de tierras con Arauco",
    "Conflicto con: (Grupo económico / empresario)": "Arauco",
-   "Link": "",
-   "lat": "-26.6255314",
-   "lon": "-54.11630191",
-   "precision": "localidad"
+   "Link": ""
   },
   {
-   "Provincia": "Río Negro",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Río Negro",
    "Departamento": "El Bolsón / Bariloche",
    "Localidad": "Mallín Ahogado, La Rinconada de Inalef",
    "Comunidad / Caso": "Comunidad Newenche Lof Inalef",
    "ESTADO (activo / latente / resuelto)": "Activo",
    "Inicio del conflicto": "1982",
    "Cantidad de famlias afectadas": "14",
-   "Hectareas afectadas": "92 hectáreas lof inalef , 81 hectáreas lof  Coronado-inalef",
+   "Hectareas afectadas": "",
    "Motivo del conflicto": "4 procesos por despojo territorial:  Origen 1982.  reclama felix marino  con orden de desalojo de la jueza Paola Bernardini;  Juan Auroux reclama  con orden de desalojo de la misma jueza y María Cristina Auroux reclama  Causa penal Coronado Cledia Cristina y otros   en disputa, imputados Cledia Coronado, Mariela Troncoso y René Gutiérrez;  Juan Carlos villa donde fue asesinado el peñi el 11/08/2024, causa distinta e independiente. En los procesos civiles son intimadas Zunilda Inalef (Lonko) y Ayelen Villa Inalef (Werken). Se impone propiedad privada sobre territorio ancestral habitado desde antes de 1885.",
    "Conflicto con: (Grupo económico / empresario)": "Grupo económico/empresario Ex policía Mella (autor del primer despojo en 1982,    Félix Argentino Merino (ex intendente de El Bolsón, terrateniente con fines inmobiliarios) Juan Lux Auroux María Cristina Auroux + Roberto Percival Tejedor (terrateniente, se adueñó de tierras en Mallín Ahogado)  Patricia Zavalía abogada  y la familia Sepúlveda-Avilés. Disputa impulsada por particulares con interés inmobiliario en el territorio.",
-   "Link": "",
-   "lat": "-40.40507963",
-   "lon": "-67.2296758",
-   "precision": "provincia"
+   "Link": ""
   },
   {
-   "Provincia": "Misiones",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Misiones",
    "Departamento": "El Dorado",
    "Localidad": "colonia delicia mado",
    "Comunidad / Caso": "TEKOA ARA PYA'U renacer",
@@ -476,13 +389,10 @@
    "Hectareas afectadas": "",
    "Motivo del conflicto": "regularización de territorio",
    "Conflicto con: (Grupo económico / empresario)": "empresa privada (Arandú)- Dulio Zalio",
-   "Link": "",
-   "lat": "-26.8753026",
-   "lon": "-54.65157056",
-   "precision": "provincia"
+   "Link": ""
   },
   {
-   "Provincia": "Misiones",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Misiones",
    "Departamento": "Iguazú",
    "Localidad": "Puerto Libertad",
    "Comunidad / Caso": "Paraje Nueva Libertad",
@@ -492,13 +402,10 @@
    "Hectareas afectadas": "",
    "Motivo del conflicto": "Acceso a la tierra/servicios básicos",
    "Conflicto con: (Grupo económico / empresario)": "",
-   "Link": "",
-   "lat": "-25.92146815",
-   "lon": "-54.58431761",
-   "precision": "localidad"
+   "Link": ""
   },
   {
-   "Provincia": "Misiones",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Misiones",
    "Departamento": "Montecarlo",
    "Localidad": "Piray",
    "Comunidad / Caso": "Piray km 18",
@@ -508,13 +415,10 @@
    "Hectareas afectadas": "",
    "Motivo del conflicto": "Expropiación ARAUCO- inconclusa",
    "Conflicto con: (Grupo económico / empresario)": "",
-   "Link": "",
-   "lat": "-26.46733861",
-   "lon": "-54.71802675",
-   "precision": "localidad"
+   "Link": ""
   },
   {
-   "Provincia": "Misiones",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Misiones",
    "Departamento": "San Pedro",
    "Localidad": "Pilalito Sur",
    "Comunidad / Caso": "Piñalito Sur",
@@ -524,13 +428,10 @@
    "Hectareas afectadas": "",
    "Motivo del conflicto": "",
    "Conflicto con: (Grupo económico / empresario)": "",
-   "Link": "",
-   "lat": "-26.42610225",
-   "lon": "-53.84143004",
-   "precision": "localidad"
+   "Link": ""
   },
   {
-   "Provincia": "Catamarca",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Catamarca",
    "Departamento": "Ancasti",
    "Localidad": "El Totoral",
    "Comunidad / Caso": "",
@@ -540,13 +441,10 @@
    "Hectareas afectadas": "",
    "Motivo del conflicto": "El feedlot de Tauil está instalado en una zona serrana con pendientes que van directo al arroyo que brinda agua a las familias del Totoral. Sus desechos han estado contaminando el arroyo durante años y en marzo de 2024 se produjo un derrame de una enorme cantidad de purín bovino que contaminó el agua por completo. Además se hizo y sigue haciendo un uso abusivo del agua por medio de pozos no autorizados que ha provocado el agotamiento del recurso llevando a las familias a una situación crítica. La contaminación aérea también ha sido notable, provocando permanentemente un olor nauseabundo.",
    "Conflicto con: (Grupo económico / empresario)": "Tauil",
-   "Link": "https://agenciatierraviva.com.ar/familias-campesinas-de-catamarca-denuncian-el-accionar-de-un-feedlot-contaminante/  https://inforama.com.ar/actualidad/2025/12/09/a-un-ano-del-amparo-denuncian-que-el-feedlot-tauil-incumple-la-limpieza-y-agrava-la-crisis-hidrica-en-el-totoral/   https://lapoliticambiental.com.ar/contenido/6831/catamarca-vecinos-denuncian-graves-impactos-ambientales-tras-el-cierre-de-un-fee https://lapoliticambiental.com.ar/contenido/6831/catamarca-vecinos-denuncian-graves-impactos-ambientales-tras-el-cierre-de-un-fee",
-   "lat": "-28.92741307",
-   "lon": "-65.50429918",
-   "precision": "departamento"
+   "Link": "https://agenciatierraviva.com.ar/familias-campesinas-de-catamarca-denuncian-el-accionar-de-un-feedlot-contaminante/  https://inforama.com.ar/actualidad/2025/12/09/a-un-ano-del-amparo-denuncian-que-el-feedlot-tauil-incumple-la-limpieza-y-agrava-la-crisis-hidrica-en-el-totoral/   https://lapoliticambiental.com.ar/contenido/6831/catamarca-vecinos-denuncian-graves-impactos-ambientales-tras-el-cierre-de-un-fee https://lapoliticambiental.com.ar/contenido/6831/catamarca-vecinos-denuncian-graves-impactos-ambientales-tras-el-cierre-de-un-fee"
   },
   {
-   "Provincia": "Misiones",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Misiones",
    "Departamento": "San Pedro",
    "Localidad": "San Pedro",
    "Comunidad / Caso": "Puerto Argentino",
@@ -556,13 +454,10 @@
    "Hectareas afectadas": "",
    "Motivo del conflicto": "Desalojos, quemas de casas y cultivos Multinacional ARAUCO",
    "Conflicto con: (Grupo económico / empresario)": "Arauco",
-   "Link": "",
-   "lat": "-26.6255314",
-   "lon": "-54.11630191",
-   "precision": "localidad"
+   "Link": ""
   },
   {
-   "Provincia": "Misiones",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Misiones",
    "Departamento": "Delicia",
    "Localidad": "Delicia",
    "Comunidad / Caso": "Delicia - Paraje El Progreso",
@@ -572,13 +467,10 @@
    "Hectareas afectadas": "",
    "Motivo del conflicto": "Quiebra de empresa- familias se asientan y producen",
    "Conflicto con: (Grupo económico / empresario)": "Empesa Cotopaxi",
-   "Link": "",
-   "lat": "-26.18172871",
-   "lon": "-54.59121645",
-   "precision": "localidad"
+   "Link": ""
   },
   {
-   "Provincia": "Misiones",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Misiones",
    "Departamento": "San Ignacio",
    "Localidad": "San Ignacio",
    "Comunidad / Caso": "Colonia Isolina",
@@ -588,13 +480,10 @@
    "Hectareas afectadas": "",
    "Motivo del conflicto": "Sentencia de Desalojo",
    "Conflicto con: (Grupo económico / empresario)": "",
-   "Link": "",
-   "lat": "-27.25861333",
-   "lon": "-55.53897479",
-   "precision": "localidad"
+   "Link": ""
   },
   {
-   "Provincia": "Catamarca",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Catamarca",
    "Departamento": "Belén",
    "Localidad": "Aguas Calientes",
    "Comunidad / Caso": "Comunidad Indígena de Peñas Negras",
@@ -604,13 +493,10 @@
    "Hectareas afectadas": "",
    "Motivo del conflicto": "Extractivismo/terratenientes/titulación de la tierra/servicios básicos",
    "Conflicto con: (Grupo económico / empresario)": "Elevado Gold/CAMYEN/Loro Piana / Amalaya y Caime",
-   "Link": "https://www.instagram.com/p/DcxLYs4jRos/?igsi=cWVsbTcxMTE2aTgy&utm_source=chatgpt.com  https://lapoliticambiental.com.ar/contenido/7960/catamarca-grave-la-comunidad-diaguita-de-penas-negras-denuncia-que-la-minera-ele",
-   "lat": "-27.101956",
-   "lon": "-66.92248051",
-   "precision": "departamento"
+   "Link": "https://www.instagram.com/p/DcxLYs4jRos/?igsi=cWVsbTcxMTE2aTgy&utm_source=chatgpt.com  https://lapoliticambiental.com.ar/contenido/7960/catamarca-grave-la-comunidad-diaguita-de-penas-negras-denuncia-que-la-minera-ele"
   },
   {
-   "Provincia": "Catamarca",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Catamarca",
    "Departamento": "Belén",
    "Localidad": "Corral Blanco",
    "Comunidad / Caso": "Comunidad Indígena de Corral Blanco",
@@ -620,13 +506,10 @@
    "Hectareas afectadas": "",
    "Motivo del conflicto": "Terratenientes/titulación de la tierra/servicios básicos",
    "Conflicto con: (Grupo económico / empresario)": "Sucesión Indalecio Pachado (familia terrateniente)",
-   "Link": "",
-   "lat": "-27.101956",
-   "lon": "-66.92248051",
-   "precision": "departamento"
+   "Link": ""
   },
   {
-   "Provincia": "Catamarca",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Catamarca",
    "Departamento": "Belén",
    "Localidad": "Laguna Blanca",
    "Comunidad / Caso": "Comunidad Indígena de Laguna Blanca",
@@ -636,13 +519,10 @@
    "Hectareas afectadas": "",
    "Motivo del conflicto": "Extractivismo/titulación de la tierra/servicios básicos",
    "Conflicto con: (Grupo económico / empresario)": "Loro Piana",
-   "Link": "",
-   "lat": "-27.101956",
-   "lon": "-66.92248051",
-   "precision": "departamento"
+   "Link": ""
   },
   {
-   "Provincia": "Catamarca",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Catamarca",
    "Departamento": "Antogasta de la Sierra",
    "Localidad": "Antofagasta de la Sierra",
    "Comunidad / Caso": "Comunidad Diaguita de Carachi Pampa",
@@ -652,13 +532,10 @@
    "Hectareas afectadas": "",
    "Motivo del conflicto": "Extractivismo de litio",
    "Conflicto con: (Grupo económico / empresario)": "Morena del Valle Minerales",
-   "Link": "",
-   "lat": "-26.05926664",
-   "lon": "-67.40655171",
-   "precision": "localidad"
+   "Link": ""
   },
   {
-   "Provincia": "Catamarca",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Catamarca",
    "Departamento": "Capital",
    "Localidad": "San Fernando del Valle de Catamarca",
    "Comunidad / Caso": "Barrio Mi Gauchito",
@@ -668,13 +545,10 @@
    "Hectareas afectadas": "",
    "Motivo del conflicto": "Proyecto infraestructura vial/servicios básicos",
    "Conflicto con: (Grupo económico / empresario)": "Gobierno de la Provincia de Catamarca",
-   "Link": "",
-   "lat": "-28.46901324",
-   "lon": "-65.77891735",
-   "precision": "localidad"
+   "Link": ""
   },
   {
-   "Provincia": "Catamarca",
+   "DATOS VISIBLES EN EL MAPA Provincia": "Catamarca",
    "Departamento": "Capital",
    "Localidad": "San Fernando del Valle de Catamarca",
    "Comunidad / Caso": "Loteo Parque Sur",
@@ -684,13 +558,10 @@
    "Hectareas afectadas": "",
    "Motivo del conflicto": "Acceso al suelo/ servicios basicos",
    "Conflicto con: (Grupo económico / empresario)": "Gobierno Provincial y Municipal de Catamarca",
-   "Link": "",
-   "lat": "-28.46901324",
-   "lon": "-65.77891735",
-   "precision": "localidad"
+   "Link": ""
   },
   {
-   "Provincia": "CHACO",
+   "DATOS VISIBLES EN EL MAPA Provincia": "CHACO",
    "Departamento": "GRAL. GUEMES",
    "Localidad": "MIRAFLORES",
    "Comunidad / Caso": "RESERVA 10.000 HAS/QOM WICHI",
@@ -700,13 +571,10 @@
    "Hectareas afectadas": "10000",
    "Motivo del conflicto": "TERRITORIO ORIGINARIO USURPADO",
    "Conflicto con: (Grupo económico / empresario)": "GOBIERNO CHACO",
-   "Link": "",
-   "lat": "-25.64942498",
-   "lon": "-60.93018745",
-   "precision": "localidad"
+   "Link": ""
   },
   {
-   "Provincia": "CHACO",
+   "DATOS VISIBLES EN EL MAPA Provincia": "CHACO",
    "Departamento": "LIBERTADOR GRAL. SAN MARTIN",
    "Localidad": "PAMPA DEL INDIO",
    "Comunidad / Caso": "BERDUM/QOM",
@@ -716,13 +584,10 @@
    "Hectareas afectadas": "329,42",
    "Motivo del conflicto": "ASENTAMIENTO SOBRE TERRENO PRIVADO",
    "Conflicto con: (Grupo económico / empresario)": "GOBIERNO CHACO",
-   "Link": "",
-   "lat": "-26.049025",
-   "lon": "-59.94275358",
-   "precision": "localidad"
+   "Link": ""
   },
   {
-   "Provincia": "CHACO",
+   "DATOS VISIBLES EN EL MAPA Provincia": "CHACO",
    "Departamento": "LIBERTADOR GRAL. SAN MARTIN",
    "Localidad": "SAN MARTIN",
    "Comunidad / Caso": "CAMPO WINTER/ QOM",
@@ -732,13 +597,10 @@
    "Hectareas afectadas": "",
    "Motivo del conflicto": "TIERRA SIN TITULARIZAR JUDICIALIZADO",
    "Conflicto con: (Grupo económico / empresario)": "GOBIERNO CHACO",
-   "Link": "",
-   "lat": "-26.53630236",
-   "lon": "-59.34132101",
-   "precision": "localidad"
+   "Link": ""
   },
   {
-   "Provincia": "CHACO",
+   "DATOS VISIBLES EN EL MAPA Provincia": "CHACO",
    "Departamento": "GRAL. DONOVAN",
    "Localidad": "MAKALLE",
    "Comunidad / Caso": "JUAN PENKO/ CRIOLLOS",
@@ -748,13 +610,10 @@
    "Hectareas afectadas": "",
    "Motivo del conflicto": "ASENTAMIENTO SOBRE TERRENO PRIVADO",
    "Conflicto con: (Grupo económico / empresario)": "PARTICULAR",
-   "Link": "",
-   "lat": "-27.20578492",
-   "lon": "-59.2870861",
-   "precision": "localidad"
+   "Link": ""
   },
   {
-   "Provincia": "CHACO",
+   "DATOS VISIBLES EN EL MAPA Provincia": "CHACO",
    "Departamento": "LIBERTADOR GRAL. SAN MARTIN",
    "Localidad": "PAMPA DEL INDIO",
    "Comunidad / Caso": "LOTE 39/ QOM",
@@ -764,13 +623,10 @@
    "Hectareas afectadas": "94,75",
    "Motivo del conflicto": "CEMENTERIO ORIGINSRIO SOBRE TIERRA PRIVADA",
    "Conflicto con: (Grupo económico / empresario)": "PARTICULAR",
-   "Link": "",
-   "lat": "-26.049025",
-   "lon": "-59.94275358",
-   "precision": "localidad"
+   "Link": ""
   },
   {
-   "Provincia": "CHACO",
+   "DATOS VISIBLES EN EL MAPA Provincia": "CHACO",
    "Departamento": "MAYOR LUIS FONTANA",
    "Localidad": "VILLA ANGELA",
    "Comunidad / Caso": "LOTE 27 PASTORIL / MOQOIT",
@@ -780,13 +636,10 @@
    "Hectareas afectadas": "",
    "Motivo del conflicto": "TERRITORIO ORIGINARIO USURPADO",
    "Conflicto con: (Grupo económico / empresario)": "PARTICULAR",
-   "Link": "",
-   "lat": "-27.57687756",
-   "lon": "-60.71112567",
-   "precision": "localidad"
+   "Link": ""
   },
   {
-   "Provincia": "CHACO",
+   "DATOS VISIBLES EN EL MAPA Provincia": "CHACO",
    "Departamento": "SAN FERNANDO",
    "Localidad": "FONTANA",
    "Comunidad / Caso": "BARRIO LAVALLE/ QOM CRIOLLOS",
@@ -796,13 +649,10 @@
    "Hectareas afectadas": "",
    "Motivo del conflicto": "ASENTAMIENTO SOBRE TERRENO PRIVADO",
    "Conflicto con: (Grupo económico / empresario)": "PARTICULAR",
-   "Link": "",
-   "lat": "-27.4202374",
-   "lon": "-59.03739126",
-   "precision": "localidad"
+   "Link": ""
   },
   {
-   "Provincia": "CHACO",
+   "DATOS VISIBLES EN EL MAPA Provincia": "CHACO",
    "Departamento": "SAN FERNANDO",
    "Localidad": "RESISTENCIA",
    "Comunidad / Caso": "ASENTAMIENTO VARGAS 2/ CRIOLLOS",
@@ -812,13 +662,10 @@
    "Hectareas afectadas": "",
    "Motivo del conflicto": "ASENTAMIENTO SOBRE TERRENO PRIVADO",
    "Conflicto con: (Grupo económico / empresario)": "PARTICULAR",
-   "Link": "",
-   "lat": "-27.45107571",
-   "lon": "-58.98648353",
-   "precision": "localidad"
+   "Link": ""
   },
   {
-   "Provincia": "CHACO",
+   "DATOS VISIBLES EN EL MAPA Provincia": "CHACO",
    "Departamento": "LIBERTADOR GRAL. SAN MARTIN",
    "Localidad": "PAMPA DEL INDIO",
    "Comunidad / Caso": "BARRIO 24 DE ABRIL/ QOM",
@@ -828,13 +675,10 @@
    "Hectareas afectadas": "",
    "Motivo del conflicto": "ASENTAMIENTO SOBRE TERRENO PRIVADO",
    "Conflicto con: (Grupo económico / empresario)": "PARTICULAR",
-   "Link": "",
-   "lat": "-26.049025",
-   "lon": "-59.94275358",
-   "precision": "localidad"
+   "Link": ""
   },
   {
-   "Provincia": "CHACO",
+   "DATOS VISIBLES EN EL MAPA Provincia": "CHACO",
    "Departamento": "COMANDANTE FERNANDEZ",
    "Localidad": "SAEZ PEÑA",
    "Comunidad / Caso": "BARRIO LAS MONJITAS",
@@ -844,13 +688,10 @@
    "Hectareas afectadas": "",
    "Motivo del conflicto": "ASENTAMIENTO SOBRE TERRENO PRIVADO",
    "Conflicto con: (Grupo económico / empresario)": "PARTICULAR",
-   "Link": "",
-   "lat": "-26.79097178",
-   "lon": "-60.44124832",
-   "precision": "localidad"
+   "Link": ""
   },
   {
-   "Provincia": "CHACO",
+   "DATOS VISIBLES EN EL MAPA Provincia": "CHACO",
    "Departamento": "COMANDANTE FERNANDEZ",
    "Localidad": "SAEZ PEÑA",
    "Comunidad / Caso": "YRIGOYEN/",
@@ -860,13 +701,10 @@
    "Hectareas afectadas": "",
    "Motivo del conflicto": "ASENTAMIENTO SOBRE TERRENO PRIVADO",
    "Conflicto con: (Grupo económico / empresario)": "PARTICULAR",
-   "Link": "",
-   "lat": "-26.79097178",
-   "lon": "-60.44124832",
-   "precision": "localidad"
+   "Link": ""
   },
   {
-   "Provincia": "CHACO",
+   "DATOS VISIBLES EN EL MAPA Provincia": "CHACO",
    "Departamento": "LIBERTADOR GRAL. SAN MARTIN",
    "Localidad": "PAMPA DEL INDIO",
    "Comunidad / Caso": "MAIDANA/ CRIOLLOS",
@@ -876,13 +714,10 @@
    "Hectareas afectadas": "",
    "Motivo del conflicto": "TIERRA SIN TITULARIZAR JUDICIALIZADO",
    "Conflicto con: (Grupo económico / empresario)": "PARTICULAR",
-   "Link": "",
-   "lat": "-26.049025",
-   "lon": "-59.94275358",
-   "precision": "localidad"
+   "Link": ""
   },
   {
-   "Provincia": "CHACO",
+   "DATOS VISIBLES EN EL MAPA Provincia": "CHACO",
    "Departamento": "LIBERTADOR GRAL. SAN MARTIN",
    "Localidad": "PAMPA DEL INDIO",
    "Comunidad / Caso": "LENCINAS/CRIOLLOS",
@@ -892,13 +727,10 @@
    "Hectareas afectadas": "100",
    "Motivo del conflicto": "ASENTAMIENTO SOBRE TERRENO PRIVADO",
    "Conflicto con: (Grupo económico / empresario)": "FIDUC",
-   "Link": "",
-   "lat": "-26.049025",
-   "lon": "-59.94275358",
-   "precision": "localidad"
+   "Link": ""
   },
   {
-   "Provincia": "CHACO",
+   "DATOS VISIBLES EN EL MAPA Provincia": "CHACO",
    "Departamento": "BERMEJO",
    "Localidad": "LA LEONESA",
    "Comunidad / Caso": "LAGUNA PATOS/QOM CRIOLLOS",
@@ -908,10 +740,7 @@
    "Hectareas afectadas": "",
    "Motivo del conflicto": "ASENTAMIENTO SOBRE TERRENO FISCAL NACIONAL JUDICIALIZADO",
    "Conflicto con: (Grupo económico / empresario)": "PARTICULAR",
-   "Link": "",
-   "lat": "-27.03814872",
-   "lon": "-58.70724862",
-   "precision": "localidad"
+   "Link": ""
   }
  ]
 }
